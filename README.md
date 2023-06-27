@@ -21,7 +21,7 @@ Analyze:
   Sum of Sales started trending down on Saturday, January 24, 2015, falling by 60.39% (26,756.23) in 7 days.
   Sum of Sales jumped from 56,755.06 to 57,964.33 during its steepest incline between Friday, January 16, 2015 and Friday, January 23, 2015.﻿﻿
 
-﻿﻿- ﻿Office Supplies had the highest total Sum of Profit at 89,525.01, followed by Technology at 75,303.16 and Furniture at 59,249.45.﻿﻿
+- Office Supplies had the highest total Sum of Profit at 89,525.01, followed by Technology at 75,303.16 and Furniture at 59,249.45.﻿﻿
   Binders and Binder Accessories in Product Category  made up 23.81% of Sum of Profit.﻿﻿
   Technology had the highest average Sum of Profit at 18,825.79, followed by Furniture at 14,812.36 and Office Supplies at 9,947.22.﻿﻿
 
